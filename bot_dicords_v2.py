@@ -58,4 +58,4 @@ async def info(ctx, city):
         pass
     print("")
 
-bot.run("ODAwMzA2NzI5MDk0MjE3Nzcw.YAQNuQ.hx7mt-HvSpdDiX4sI4blyLTD3Go")
+bot.run(#mettre ici le token du bot)
