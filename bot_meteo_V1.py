@@ -62,8 +62,8 @@ def send_mail(file_name):
 	# parite a modifier
 	smtp_server = 'smtp.gmail.com'
 	port = 465
-	expediteur = 'hugolapla332@gmail.com'
-	password = 'Secondairegmail33'
+	expediteur = # email as str
+	password = # password as str desable gmail security
 	##############################################
 
 	message = MIMEMultipart('alternative')
