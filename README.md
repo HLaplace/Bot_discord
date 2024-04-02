@@ -1,7 +1,9 @@
-# Python-programme
+# Bot_discord
 
-Bot meteo pour discord
+Personal project of using an API and sending data via email through a Gmail mailbox.
 
-Les deux codes de mail permettent l'envoie de mail par le biais d'une boite mail gmail. Il faut pour ça enlever la securite liée a la connexion de gmail.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Egalement le code du service de méteo et son code annexe.
+Projet personnel d'utilisation d'une API et d'envoi de données par e-mail via une boîte Gmail.
+
+
